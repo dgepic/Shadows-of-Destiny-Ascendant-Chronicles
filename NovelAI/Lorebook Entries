@@ -1,0 +1,41 @@
+Generation Type: Character
+Input Text: Corin
+Description Text: Corin is the main character of the story. He is a young man who lives in a small, cozy room adorned with his mother's paintings of the forest and the stars. He is an avid reader and has a close relationship with his friend Jonah. Corin is initially skeptical about the existence of Ethernodes and the prophecy that Elise tells him about. However, he is open-minded and willing to listen to Elise's explanations.
+Activation Keys: Corin
+
+
+Generation Type: Character
+Input Text: Elise Skywood
+Description Text: Elise Skywood is a mysterious girl who believes in fairy tales and claims to be an Ethernode. She has a focus stone that she found in the Whispering Woods, which she uses to control ethereal energies. Elise is determined to convince Corin that he is an Ethernode and that they are part of a prophecy to save the world from destruction.
+Activation Keys: Elise, Elise Skywood
+
+
+Generation Type: Character
+Input Text: Jonah
+Description Text: Jonah is Corin's best friend. They often meet at Jonah's house to plan their day. Jonah's house is located near the edge of the village, next to the woods. Jonah is initially skeptical about Elise's claims about Ethernodes.
+Activation Keys: Jonah
+
+
+Generation Type: Location
+Input Text: Vernian
+Description Text: Vernian is the village where Corin, Jonah, and Elise live. It's a peaceful place with houses near the edge of the woods. The village is visible from a cliff that Corin and Jonah often visit.
+Activation Keys: Vernian
+
+
+Generation Type: Concept
+Input Text: Ethernode
+Description Text: An Ethernode is a being that can control ethereal energies. According to Elise, Ethernodes use focus stones to hone their powers. Ethernodes are part of a prophecy to save the world from destruction. The existence of Ethernodes is considered a myth by many, including Corin and Jonah.
+Activation Keys: Ethernode, Ethernodes
+
+
+Generation Type: Object
+Input Text: Focus Stone
+Description Text: A focus stone is a special gemstone used by Ethernodes to control ethereal energies. Elise found her focus stone in the Whispering Woods and uses it to demonstrate her powers to Corin.
+Activation Keys: Focus Stone
+
+
+Generation Type: Location
+Input Text: Whispering Woods
+Description Text: The Whispering Woods is a place where Elise found her focus stone.
+
+
